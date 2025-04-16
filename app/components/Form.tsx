@@ -66,7 +66,7 @@ export default function Form() {
         onSubmit={handleSubmit}
         className="bg-white p-6 rounded-xl shadow-md space-y-4 w-full max-w-3xl"
       >
-        <h1 className="text-2xl font-semibold text-black">AI Oncologist</h1>
+        <h1 className="text-2xl font-semibold text-black">AI Researcher</h1>
 
         <input
           id="file-upload"
